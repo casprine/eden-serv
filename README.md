@@ -11,6 +11,7 @@ Data Params
 
 - Name
 - Description
+- Type {Paid or Free}
 - Author
   - Name
   - Other things we get ie. links like images and stuff
