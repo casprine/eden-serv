@@ -6,3 +6,4 @@ djangorestframework==3.9.1
 psycopg2-binary==2.7.7
 pycodestyle==2.5.0
 pytz==2018.9
+waitress==1.2.1
